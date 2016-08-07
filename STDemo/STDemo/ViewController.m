@@ -23,6 +23,9 @@
     NSLog(@"start verson 2.0 dev");
 }
 
+- (void)fixBug {
+    NSLog(@"fix bug");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
