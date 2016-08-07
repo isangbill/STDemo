@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"1111");
     NSLog(@"verson 1.0 completed");
+    
+    NSLog(@"start verson 2.0 dev");
 }
 
 - (void)didReceiveMemoryWarning {
