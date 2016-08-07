@@ -21,6 +21,9 @@
     NSLog(@"verson 1.0 completed");
 }
 
+- (void)fixBug {
+    NSLog(@"fix bug");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
